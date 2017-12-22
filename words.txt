@@ -450,3 +450,6 @@ resounding
 empathy
 adept
 compliant
+detrimental
+reiterate
+sustenance
