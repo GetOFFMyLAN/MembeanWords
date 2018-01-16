@@ -476,7 +476,7 @@ autonomous
 progeny
 decadent
 infusion
-resonate	------
+resonate
 interminable
 pandemonium
 complacent
@@ -484,3 +484,16 @@ posthumous
 deplete
 rejuvenate
 ingrate
+perpetuate
+infallible
+accentuate
+reprieve
+alleviate
+monochrome
+residual
+injunction
+deluge
+exorbitant
+emigrate
+illusory
+indoctrinate
